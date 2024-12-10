@@ -13,7 +13,7 @@
           echo -e "\t$pkg"
         done
         echo
-      ''
+      '';
     };
   };
 }
